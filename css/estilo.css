@@ -1,5 +1,5 @@
 body{
-    background-image: url("/img/gif-animado-minion-olha-para-cima.gif");
+    background-image: url("img/gif-animado-minion-olha-para-cima.gif");
 }
 
 h1{
@@ -25,7 +25,7 @@ p{
 }
 
 img{
-    
+
     border-radius: 5%;
     box-shadow: 11px 11px 10px yellow;
     border-style: solid;
